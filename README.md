@@ -9,6 +9,10 @@
 
 ###
 
+<h3 align="left">I code with 👇</h3>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
@@ -26,7 +30,11 @@
 
 ###
 
-<div align="center">
+<div align="right">
+<h3 align="left">Contact me 👉</h3>
+
+###
+
   <a href="https://www.linkedin.com/in/ahmetcancakar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -35,11 +43,5 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ahmetcancakar/ahmetcancakar/blob/output/snake.svg" alt="Snake animation" />
 
 ###
