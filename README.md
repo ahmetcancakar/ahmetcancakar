@@ -9,7 +9,7 @@
 
 ###
 
-## I code with
+## I code with 👇
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
@@ -27,8 +27,8 @@
 </div>
 
 ###
-## Contact Me 
-<div align="right">
+## Contact Me 👉
+<div align="center">
   <a href="https://www.linkedin.com/in/ahmetcancakar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
