@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Can  and I'm a jr. backend developer, from Turkey</h2>
+<h2 align="left">Hi 👋! My name is Can  and I'm a jr. fullstack developer, from Turkey</h2>
 
 ###
 
