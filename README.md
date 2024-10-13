@@ -9,7 +9,7 @@
 
 ###
 
-## I code with 👇
+## I code and design with 👇
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" width="42" alt="csharp logo"  />
